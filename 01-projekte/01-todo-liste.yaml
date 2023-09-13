@@ -1,0 +1,14 @@
+meta:
+    navtitle: ToDo-Liste
+    title: ToDo-Liste
+    description: 'Das erste Projekt im Rahmen meiner Weiterbildung war das Erstellen einer ToDo-Liste, welche im Browser laufen soll. Voraussetzung war, dass kein Framework verwenden werden durfte…'
+    heroimage: null
+    heroimagealt: null
+    hide: false
+    noindex: false
+    owner: mren76
+    author: 'Markus Rennings'
+    manualdate: null
+    modified: '2023-08-19'
+    created: '2023-08-19'
+    time: 23-26-51
