@@ -1,3 +1,5 @@
+name: deploy to live server
+
 on:
   push:
     branches:
