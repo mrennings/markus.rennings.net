@@ -1,6 +1,10 @@
 # URL-Shortener
 
-Das zweite Projekt innerhalb meiner DevOps-Weiterbildung war ein Full-Stack-Projekt mit freier Gruppenwahl (max. fünf Personen) und Themenauswahl aus einem Pool. Meine Gruppe bestand aus Deniz Durmaz, Jason Krimmel, Sebastian Hufeld, Andreas Brühl und mir. Wir haben uns – als einzige – als Thema den URL-Shortener ausgesucht.
+Das zweite Projekt innerhalb meiner DevOps-Weiterbildung war ein Full-Stack-Projekt mit freier
+Gruppenwahl (max. fünf Personen) und Themenauswahl aus einem Pool. Meine Gruppe bestand aus
+[Deniz Durmaz](https://github.com/Aquilero), [Jason Krimmel](https://github.com/xKatsuoo),
+Sebastian Hufeld, Andreas Brühl und mir. Wir haben uns – als einzige – als Thema den URL-Shortener
+ausgesucht.
 
 ## Anforderungen der Aufgabe
 
@@ -28,4 +32,4 @@ Das zweite Projekt innerhalb meiner DevOps-Weiterbildung war ein Full-Stack-Proj
 
 Ich habe mich bei diesem Projekt um die API/das Backend gekümmert. Dazu gehörten das API-Design, das Erstellen des Backends, inkl. der Routen. Auch um die Auswertung der Clients für die Statistiken habe ich mich mit gekümmert.
 
-Zur Dokumentation der API habe ich mich in OpenApi eingelesen und eine entsprechende Datei (yaml) erstellt. Für die [Projektdokumentation (PDF, 276 kB)](media/files/gruppe-3-shorties.pdf){.tm-download file-pdf} habe ich meine XeLaTeX-Kenntnisse – welche ich teilweise schon vergessen hatte – wieder aufgefrischt. Für die gemeinsame Arbeit habe ich auf [Github ein Repo](https://github.com/aws2302/P2){target="_blank"} erstellt.
+Zur Dokumentation der API habe ich mich in OpenApi eingelesen und eine entsprechende Datei (yaml) erstellt. Für die [Projektdokumentation (PDF, 276 kB)](media/files/gruppe-3-shorties.pdf){.tm-download file-pdf} habe ich meine XeLaTeX-Kenntnisse – welche ich teilweise schon vergessen hatte – wieder aufgefrischt. Für die gemeinsame Arbeit habe ich auf [GitHub ein Repo](https://github.com/aws2302/P2){target="_blank"} erstellt.

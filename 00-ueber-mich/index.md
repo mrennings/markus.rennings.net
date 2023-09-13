@@ -4,7 +4,7 @@ Seit Mitte der 1990er Jahre betreibe ich vernetzte Systeme: Erst war es die eige
 
 Dies änderte sich, als ich dann auch mehr mit Linux arbeitete und ich dann bei Gentoo Linux landete. Dort betreute ich im User-Repo ein paar Pakete und auch im Bugzilla sind Reports von mir zu finden. Da die Kommunikation üblicherweise per IRC lief, kam ich dann auch zu KVIrc, wo ich dann als Maintainer die deutsche Übersetzung – sowohl des Hauptprogramms, als auch der Module und Webseite – betreute.
 
-Mein Interesse war geweckt, also habe ich mich auch in andere Bereiche eingearbeitet: So betreibe ich meinen eigenen Mail- und Web-Server. 
+Mein Interesse war geweckt, also habe ich mich auch in andere Bereiche eingearbeitet: So betreibe ich meinen eigenen Mail- und Web-Server.
 
 Programmieren war immer irgendwie da, aber meist blieb es beim Scripting zur Automatisierung. Grundlagen für diverse Sprachen hatte ich mir immer mal wieder angeguckt, aber mangels Projekten nie verfestigt. Dies hatte sich dann mit Python und Javascript/node.js geändert.
 
