@@ -30,6 +30,11 @@ ausgesucht.
 
 ## Meine Aufgabe
 
-Ich habe mich bei diesem Projekt um die API/das Backend gekümmert. Dazu gehörten das API-Design, das Erstellen des Backends, inkl. der Routen. Auch um die Auswertung der Clients für die Statistiken habe ich mich mit gekümmert.
+Ich habe mich bei diesem Projekt um die API/das Backend gekümmert. Dazu gehörten das API-Design,
+das Erstellen des Backends, inkl. der Routen. Auch um die Auswertung der Clients für die
+Statistiken habe ich mich mit gekümmert.
 
-Zur Dokumentation der API habe ich mich in OpenApi eingelesen und eine entsprechende Datei (yaml) erstellt. Für die [Projektdokumentation (PDF, 276 kB)](media/files/gruppe-3-shorties.pdf){.tm-download file-pdf} habe ich meine XeLaTeX-Kenntnisse – welche ich teilweise schon vergessen hatte – wieder aufgefrischt. Für die gemeinsame Arbeit habe ich auf [GitHub ein Repo](https://github.com/aws2302/P2){target="_blank"} erstellt.
+Zur Dokumentation der API habe ich mich in OpenApi eingelesen und eine entsprechende Datei (yaml)
+erstellt. Für die [Projektdokumentation (PDF, 276 kB)](media/files/gruppe-3-shorties.pdf)
+{.tm-download file-pdf} habe ich meine XeLaTeX-Kenntnisse – welche ich teilweise schon vergessen
+hatte – wieder aufgefrischt. Für die gemeinsame Arbeit habe ich auf [GitHub ein Repo](https://github.com/aws2302/P2){target="_blank"} erstellt.
