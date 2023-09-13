@@ -1,0 +1,14 @@
+meta:
+    navtitle: Blog
+    title: Blog
+    description: 'Ein »richtiges« Blog, welches täglich (mehrere) Beiträge erhält, wird dies hier sicher nicht. Ich werde über Themen schreiben, die mir wichtig sind, die für andere evtl. interessant sein können. Oder auch Punkte, die ich nicht vergessen will.'
+    heroimage: null
+    heroimagealt: null
+    hide: false
+    noindex: false
+    owner: mren76
+    author: 'Markus Rennings'
+    manualdate: null
+    modified: '2023-09-08'
+    created: '2023-08-20'
+    time: 00-02-18
